@@ -1,0 +1,18 @@
+<?xml version="1.0"?> 
+<catalog>
+    <book id="1">
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <author>J.K. Rowling</author>
+        <price>10.99</price>
+    </book>
+    <book id="2">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <price>8.99</price>
+    </book>
+    <book id="3">
+        <title>Dreams of a Time Traveler</title>
+        <author>Chronos Weaver</author>
+        <price>16.99</price>
+    </book>
+</catalog>
